@@ -1,0 +1,6 @@
+{
+  "name": "ReformasPro",
+  "description": "Gestión integral de obras, presupuestos, facturas, fotos y gastos para profesionales de reformas y construcción.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
